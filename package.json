@@ -1,0 +1,14 @@
+{
+  "name": "chatviraliza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "node-fetch": "^3.3.2"
+  }
+}
